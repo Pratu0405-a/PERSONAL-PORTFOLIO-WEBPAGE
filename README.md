@@ -2,15 +2,15 @@
 
 **COMPANY**: CODETECH IT SOLUTIONS
 
-**NAME**:PRATIKSHA ALHAT
+**NAME**: PRATIKSHA ALHAT
 
-**INTERN ID**:CT08FWM
+**INTERN ID**: CT08FWM
 
-**DOMAIN**:Frontend Web Development
+**DOMAIN**: Frontend Web Development
 
-**BATCH DURATIONS**:December 25th, 2024 to January 25th, 2025
+**BATCH DURATIONS**: December 25th, 2024 to January 25th, 2025
 
-**MENTOR NAME**:Neela Santhosh
+**MENTOR NAME**: Neela Santhosh
 
 
 
@@ -76,6 +76,16 @@ To get started with CodTech on your local machine, follow these steps:
 
 CodTech is highly customizable to suit different developers’ needs. You can easily add or remove sections, change the color scheme, and replace images with your own. The CSS is well-structured, allowing for easy modifications to the design. Whether you’re a front-end developer, back-end developer, or full-stack developer, this portfolio is a perfect starting point to display your work.
 
+---
+# Output of the task :
+
+![task3-1](https://github.com/user-attachments/assets/48a40662-c106-4c91-8db2-7402308e6491)
+
+![task3-2](https://github.com/user-attachments/assets/eba55cdf-5154-441a-bff9-4076178e506c)
+
+![task3-3](https://github.com/user-attachments/assets/bf2cda1f-269e-4318-82a5-d4a8113af2de)
+
+---
 **Conclusion:**
 
 CodTech provides a solid foundation for a developer’s portfolio, offering an easy-to-navigate, professional design that can be tailored to fit any individual developer’s needs. By utilizing HTML and CSS, this project gives developers the freedom to create a personal, visually appealing online presence without relying on complex JavaScript frameworks or external libraries. It’s a great way to showcase your skills and projects, and can serve as a valuable tool in your career development.
